@@ -1,0 +1,28 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Play some music",
+      "day": "typicode",
+      "reminder": true
+    },
+    {
+      "id": 3,
+      "text": "Meet at pchool",
+      "day": "typicode",
+      "reminder": true
+    },
+    {
+      "text": "Weird",
+      "day": "20200202",
+      "reminder": true,
+      "id": 5
+    },
+    {
+      "text": "Last thing",
+      "day": "About routing",
+      "reminder": false,
+      "id": 6
+    }
+  ]
+}
